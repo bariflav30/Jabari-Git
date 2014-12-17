@@ -1,0 +1,18 @@
+h1{
+	color: red;
+	text-align: center;
+}
+
+body{
+	background: #d3d3d3;
+	}
+
+p{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+ul{
+	text-align: center;
+	list-style-type: none;
+}
